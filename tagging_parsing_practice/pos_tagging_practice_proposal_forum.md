@@ -1,7 +1,7 @@
 ## Exercise 1.1
 
 The best tag is the noun - it's the most common type
-
+```
 Default tagger accuracy for ADJ:  0.05291005291005291
 Default tagger accuracy for ADV:  0.025573192239858905
 Default tagger accuracy for CONJ:  0.02072310405643739
@@ -18,6 +18,7 @@ Default tagger accuracy for VERB:  0.1693121693121693
 Default tagger accuracy for PART:  0.0
 Default tagger accuracy for SCONJ:  0.0
 Default tagger accuracy for SYM:  0.0
+```
 
 
 ## Exercise 2.1.1 && 2.1.2 && 2.1.3 
